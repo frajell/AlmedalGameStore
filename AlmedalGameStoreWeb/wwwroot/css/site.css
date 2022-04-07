@@ -23,6 +23,7 @@ body {
 }
 
 .showcase-start {
+
     background: url(/images/ags-background.jpg) top center no-repeat;
     /*width: 100vw;
     height: 40vh;*/
@@ -33,6 +34,7 @@ body {
     display: flex;
     align-items: center;
     opacity: 0.9;
+
 }
 
 .ags-motto {
@@ -48,6 +50,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+
     opacity: 0.8;
+
     text-align: center;
 }

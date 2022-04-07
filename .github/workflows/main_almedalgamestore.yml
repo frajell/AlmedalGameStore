@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'AlmedalGameStore'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3A546F002D3849EB92EDE2A3E4070ED2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9A92F8B4E7DE44669F765A1E088E2659 }}
           package: .

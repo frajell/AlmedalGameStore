@@ -4,6 +4,8 @@ using AlmedalGameStore.DataAccess.GenericRepository.IGenericRepository;
 using Microsoft.Azure.Services.AppAuthentication;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Azure.KeyVault;
+using Microsoft.AspNetCore.Identity;
+using AlemedalGameStore.Utility;
 
 
 var builder = WebApplication.CreateBuilder(args);
